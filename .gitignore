@@ -1,2 +1,3 @@
-logging-middleware/.env
-backend/.env
+.env
+backend/
+logging-middleware/
